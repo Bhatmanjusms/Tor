@@ -8,7 +8,7 @@ except:
         API_HASH = "780fd96b159baa710dada78ff1621b54"
         API_ID = 8813038
         BOT_TOKEN = "5656441531:AAGpVHO1-O_pJf_B3lTKKdUUHDQ1XmEU8a8"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "http://myip:port"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
